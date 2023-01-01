@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EntryNPC:jar">
+    <output-path>$USER_HOME$/Desktop/local/serv/plugins</output-path>
+    <root id="archive" name="EntryNPC.jar">
+      <element id="module-output" name="EntryNPC.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.entryset/api/3.2.5/ac090663946629bab088b12d263cd9513fec0304/api-3.2.5.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>

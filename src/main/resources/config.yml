@@ -1,0 +1,27 @@
+permissions:
+  admin: "entrynpc.admin"
+messages:
+  console: "Команда выполнима только от лица игрока"
+  no_permission: "Недостаточно прав"
+  help: |-
+    | /npc create
+    | /npc remove
+    | /npc movehere
+    | /npc hidename
+    | /npc showname
+    | /npc addlore text
+    | /npc setlore number text
+    | /npc removelore
+    | /npc hidelore
+    | /npc showlore
+    | /npc addcmd id player/server cmd
+    | /npc removecmd id
+    | /npc listcmd
+    | /npc settype 
+    | /npc look
+  createhelp: "Используйте /npc create Название Ссылку_На_Скин"
+  removehelp: "Используйте /npc remove Название"
+  created: "Вы успешно создали нпс"
+  removed: "Вы успешно удалили нпс"
+  present: "Нпс уже создано"
+  dontpresent: "Нпс отсутсвует"

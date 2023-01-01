@@ -1,0 +1,9 @@
+name: EntryNPC
+main: ru.bubblemine.npc.main.Main
+version: 1.0.0
+api-version: 1.13
+author: PowerLands
+commands:
+  enpc:
+    aliases:
+      - npc
